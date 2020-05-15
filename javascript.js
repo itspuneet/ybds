@@ -30,7 +30,7 @@
 		}
 
 		if((positiontop>168) && (positiontop< 1330) ){
-			$("#Aboutanime").addClass("animated backInUp");
+			$("#Aboutanime").addClass("animated fadeInUp");
 		}
 
 		if((positiontop>1191) && (positiontop< 2030) ){
